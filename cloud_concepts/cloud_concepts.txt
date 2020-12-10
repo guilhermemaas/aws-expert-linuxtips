@@ -1,0 +1,51 @@
+Principal Característica:
+
+Cloud Computing = Elasticidade.
+
+2006 - Lançamento da EC2, pagamento por tempo de uso.
+
+Características de infraestrutura de uma Cloud Computing:
+
+Characteristics and Advantages:
+- Agility
+- Maintenence
+- Reliability(confiabilidade)
+- Security
+- Performance
+- Scalability
+- Cost and Elasticity:
+    Soft Limit:
+        Limite de xx de Máquinas rodando em auto scaling.
+    Hard Limit:
+        Limite no Datacenter.
+    
+NIST - The National of Standards and Technology
+
+- On demand self-service
+- Broad network access
+- Resource pooling
+- Rapid Elasticity
+- Measured service
+
+Service Models:
+
+- IaaS:
+    Infraestructure as a Service
+- PaaS:
+    Platform as a Service - Heroku
+- FaaS:
+    Function as a Service - AWS Lambda
+
+Deployment models:
+
+- Private Cloud:
+    OpenStack, Vmware, On Premise.
+
+- Public Cloud:
+    AWS, GCP, Azure.
+
+- Hybrid Cloud
+
+- Multicloud
+
+- Community
