@@ -1,0 +1,12 @@
+Root Account
+    - Organisational Unit (OU) DEV,     QA,     PROD
+        - Accounts             ACCs     ACCs    ACCs
+        - Identity             IAM      IAM     IAM
+        - Resources            RR       RR      RR
+
+Não é uma boa prática usar a root account para fazer deploy de serviços.
+E sim as contas abaixo das orgs.
+
+Root account -> Pagar, custos.
+
+Creating Root Account:
